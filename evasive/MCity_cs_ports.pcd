@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperimentDef rtULength="16" rtYLength="798">
+    <BlockDef id="Audi_A8_1">
+        <PortDef id="Position_Audi_A8_1" index="0" type="1" width="3"/>
+        <PortDef id="Velocity_Audi_A8_1" index="3" type="1" width="3"/>
+        <PortDef id="Acceleration_Audi_A8_1" index="6" type="1" width="3"/>
+        <PortDef id="RPY_Audi_A8_1" index="9" type="1" width="3"/>
+        <PortDef id="velRPY_Audi_A8_1" index="12" type="1" width="3"/>
+        <PortDef id="SELF_Audi_A8_1" index="0" type="0" width="8"/>
+    </BlockDef>
+    <BlockDef id="BMW_Z3_1">
+        <PortDef id="Position_BMW_Z3_1" index="15" type="1" width="3"/>
+        <PortDef id="Velocity_BMW_Z3_1" index="18" type="1" width="3"/>
+        <PortDef id="Acceleration_BMW_Z3_1" index="21" type="1" width="3"/>
+        <PortDef id="RPY_BMW_Z3_1" index="24" type="1" width="3"/>
+        <PortDef id="velRPY_BMW_Z3_1" index="27" type="1" width="3"/>
+        <PortDef id="SELF_BMW_Z3_1" index="8" type="0" width="8"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_1">
+        <PortDef id="visu_LightCasingGreen_1" index="30" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="46" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="62" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="78" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="94" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="110" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_2">
+        <PortDef id="visu_LightCasingGreen_1" index="126" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="142" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="158" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="174" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="190" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="206" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_3">
+        <PortDef id="visu_LightCasingGreen_1" index="222" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="238" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="254" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="270" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="286" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="302" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_4">
+        <PortDef id="visu_LightCasingGreen_1" index="318" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="334" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="350" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="366" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="382" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="398" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_7">
+        <PortDef id="visu_LightCasingGreen_1" index="414" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="430" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="446" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="462" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="478" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="494" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_9">
+        <PortDef id="visu_LightCasingGreen_1" index="510" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="526" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="542" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="558" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="574" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="590" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_10">
+        <PortDef id="visu_LightCasingGreen_1" index="606" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="622" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="638" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="654" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="670" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="686" type="1" width="16"/>
+    </BlockDef>
+    <BlockDef id="TrafficLightDoubleUS_8">
+        <PortDef id="visu_LightCasingGreen_1" index="702" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_1" index="718" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_1" index="734" type="1" width="16"/>
+        <PortDef id="visu_LightCasingGreen_2" index="750" type="1" width="16"/>
+        <PortDef id="visu_LightCasingOrange_2" index="766" type="1" width="16"/>
+        <PortDef id="visu_LightCasingRed_2" index="782" type="1" width="16"/>
+    </BlockDef>
+</ExperimentDef>

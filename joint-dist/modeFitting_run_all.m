@@ -1,0 +1,6 @@
+clear all
+modeFitting_pedestrian
+clear all
+modeFitting_leftTurn
+clear all
+modeFitting_laneChange

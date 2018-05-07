@@ -1,0 +1,20 @@
+function [ outer_approx inner_approx ] = lane_change_monotone_approaximate( vLIni_mat,X_Rdot_mat,X_InvR_mat,S_0,S_1,monotone_direction)
+%UNTITLED Summary of this function goes here
+%   Detailed explanation goes here
+    
+    
+    for i=1:size(S_0)
+
+
+    
+
+
+
+
+
+
+
+
+
+end
+

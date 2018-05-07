@@ -1,0 +1,2 @@
+% BIC compare
+

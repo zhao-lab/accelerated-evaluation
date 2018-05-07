@@ -1,0 +1,1 @@
+[vh,vl,R,Likelihoodratio] = generate_leftTurn_accelerated(6)

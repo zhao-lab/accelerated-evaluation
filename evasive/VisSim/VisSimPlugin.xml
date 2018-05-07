@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VisSimConfigurerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" VisSimEnabled="false">
+  <EgoVehicle UniqueID="0" />
+  <PreScanVehicles>
+    <Vehicle UniqueID="11817" />
+    <Vehicle UniqueID="12335" />
+  </PreScanVehicles>
+  <ExternallyControlledVehicles />
+  <LayoutFile Path="" Name="" />
+  <InputFile Path="" Name="" />
+</VisSimConfigurerData>

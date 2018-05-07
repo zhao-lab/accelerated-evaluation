@@ -1,0 +1,4 @@
+clear all
+modeFitting_pedestrian
+clear all
+modeFitting_leftTurn
